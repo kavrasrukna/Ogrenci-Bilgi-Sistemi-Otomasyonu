@@ -1,0 +1,44 @@
+C:\Users\Rükna\Desktop\obs4katmanlımimari ado.net sp\obssistemi\ObsLayer\obj\Debug\ObsLayer.csproj.AssemblyReference.cache
+C:\Users\Rükna\Desktop\obs4katmanlımimari ado.net sp\obssistemi\ObsLayer\obj\Debug\ObsLayer.csproj.CoreCompileInputs.cache
+C:\Users\Rükna\Desktop\obs4katmanlımimari ado.net sp\obssistemi\ObsLayer\bin\Debug\ObsLayer.dll
+C:\Users\Rükna\Desktop\obs4katmanlımimari ado.net sp\obssistemi\ObsLayer\bin\Debug\ObsLayer.pdb
+C:\Users\Rükna\Desktop\obs4katmanlımimari ado.net sp\obssistemi\ObsLayer\bin\Debug\Entity.dll
+C:\Users\Rükna\Desktop\obs4katmanlımimari ado.net sp\obssistemi\ObsLayer\bin\Debug\Facade.dll
+C:\Users\Rükna\Desktop\obs4katmanlımimari ado.net sp\obssistemi\ObsLayer\bin\Debug\Entity.pdb
+C:\Users\Rükna\Desktop\obs4katmanlımimari ado.net sp\obssistemi\ObsLayer\bin\Debug\Facade.pdb
+C:\Users\Rükna\Desktop\obs4katmanlımimari ado.net sp\obssistemi\ObsLayer\obj\Debug\ObsLayer.csproj.CopyComplete
+C:\Users\Rükna\Desktop\obs4katmanlımimari ado.net sp\obssistemi\ObsLayer\obj\Debug\ObsLayer.dll
+C:\Users\Rükna\Desktop\obs4katmanlımimari ado.net sp\obssistemi\ObsLayer\obj\Debug\ObsLayer.pdb
+C:\Users\HJP\Desktop\ERP\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\ObsLayer\bin\Debug\ObsLayer.dll
+C:\Users\HJP\Desktop\ERP\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\ObsLayer\bin\Debug\ObsLayer.pdb
+C:\Users\HJP\Desktop\ERP\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\ObsLayer\bin\Debug\Entity.dll
+C:\Users\HJP\Desktop\ERP\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\ObsLayer\bin\Debug\Facade.dll
+C:\Users\HJP\Desktop\ERP\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\ObsLayer\bin\Debug\Entity.pdb
+C:\Users\HJP\Desktop\ERP\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\ObsLayer\bin\Debug\Facade.pdb
+C:\Users\HJP\Desktop\ERP\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\ObsLayer\obj\Debug\ObsLayer.csproj.AssemblyReference.cache
+C:\Users\HJP\Desktop\ERP\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\ObsLayer\obj\Debug\ObsLayer.csproj.CoreCompileInputs.cache
+C:\Users\HJP\Desktop\ERP\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\ObsLayer\obj\Debug\ObsLayer.csproj.CopyComplete
+C:\Users\HJP\Desktop\ERP\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\ObsLayer\obj\Debug\ObsLayer.dll
+C:\Users\HJP\Desktop\ERP\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\ObsLayer\obj\Debug\ObsLayer.pdb
+C:\Users\HJP\Desktop\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\ObsLayer\bin\Debug\ObsLayer.dll
+C:\Users\HJP\Desktop\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\ObsLayer\bin\Debug\ObsLayer.pdb
+C:\Users\HJP\Desktop\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\ObsLayer\bin\Debug\Entity.dll
+C:\Users\HJP\Desktop\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\ObsLayer\bin\Debug\Facade.dll
+C:\Users\HJP\Desktop\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\ObsLayer\bin\Debug\Entity.pdb
+C:\Users\HJP\Desktop\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\ObsLayer\bin\Debug\Facade.pdb
+C:\Users\HJP\Desktop\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\ObsLayer\obj\Debug\ObsLayer.csproj.AssemblyReference.cache
+C:\Users\HJP\Desktop\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\ObsLayer\obj\Debug\ObsLayer.csproj.CoreCompileInputs.cache
+C:\Users\HJP\Desktop\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\ObsLayer\obj\Debug\ObsLayer.csproj.CopyComplete
+C:\Users\HJP\Desktop\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\ObsLayer\obj\Debug\ObsLayer.dll
+C:\Users\HJP\Desktop\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\ObsLayer\obj\Debug\ObsLayer.pdb
+C:\Users\HJP\Desktop\PROJELER sql\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\ObsLayer\bin\Debug\ObsLayer.dll
+C:\Users\HJP\Desktop\PROJELER sql\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\ObsLayer\bin\Debug\ObsLayer.pdb
+C:\Users\HJP\Desktop\PROJELER sql\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\ObsLayer\bin\Debug\Entity.dll
+C:\Users\HJP\Desktop\PROJELER sql\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\ObsLayer\bin\Debug\Facade.dll
+C:\Users\HJP\Desktop\PROJELER sql\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\ObsLayer\bin\Debug\Entity.pdb
+C:\Users\HJP\Desktop\PROJELER sql\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\ObsLayer\bin\Debug\Facade.pdb
+C:\Users\HJP\Desktop\PROJELER sql\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\ObsLayer\obj\Debug\ObsLayer.csproj.AssemblyReference.cache
+C:\Users\HJP\Desktop\PROJELER sql\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\ObsLayer\obj\Debug\ObsLayer.csproj.CoreCompileInputs.cache
+C:\Users\HJP\Desktop\PROJELER sql\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\ObsLayer\obj\Debug\ObsLayer.csproj.CopyComplete
+C:\Users\HJP\Desktop\PROJELER sql\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\ObsLayer\obj\Debug\ObsLayer.dll
+C:\Users\HJP\Desktop\PROJELER sql\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\ObsLayer\obj\Debug\ObsLayer.pdb

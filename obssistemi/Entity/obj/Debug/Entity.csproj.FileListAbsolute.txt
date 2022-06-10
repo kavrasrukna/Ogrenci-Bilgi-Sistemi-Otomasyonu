@@ -1,0 +1,24 @@
+C:\Users\Rükna\Desktop\obs4katmanlımimari ado.net sp\obssistemi\Entity\bin\Debug\Entity.dll
+C:\Users\Rükna\Desktop\obs4katmanlımimari ado.net sp\obssistemi\Entity\bin\Debug\Entity.pdb
+C:\Users\Rükna\Desktop\obs4katmanlımimari ado.net sp\obssistemi\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+C:\Users\Rükna\Desktop\obs4katmanlımimari ado.net sp\obssistemi\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Rükna\Desktop\obs4katmanlımimari ado.net sp\obssistemi\Entity\obj\Debug\Entity.dll
+C:\Users\Rükna\Desktop\obs4katmanlımimari ado.net sp\obssistemi\Entity\obj\Debug\Entity.pdb
+C:\Users\HJP\Desktop\ERP\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\Entity\bin\Debug\Entity.dll
+C:\Users\HJP\Desktop\ERP\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\Entity\bin\Debug\Entity.pdb
+C:\Users\HJP\Desktop\ERP\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+C:\Users\HJP\Desktop\ERP\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\HJP\Desktop\ERP\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\Entity\obj\Debug\Entity.dll
+C:\Users\HJP\Desktop\ERP\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\Entity\obj\Debug\Entity.pdb
+C:\Users\HJP\Desktop\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\Entity\bin\Debug\Entity.dll
+C:\Users\HJP\Desktop\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\Entity\bin\Debug\Entity.pdb
+C:\Users\HJP\Desktop\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+C:\Users\HJP\Desktop\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\HJP\Desktop\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\Entity\obj\Debug\Entity.dll
+C:\Users\HJP\Desktop\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\Entity\obj\Debug\Entity.pdb
+C:\Users\HJP\Desktop\PROJELER sql\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\Entity\bin\Debug\Entity.dll
+C:\Users\HJP\Desktop\PROJELER sql\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\Entity\bin\Debug\Entity.pdb
+C:\Users\HJP\Desktop\PROJELER sql\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+C:\Users\HJP\Desktop\PROJELER sql\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\HJP\Desktop\PROJELER sql\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\Entity\obj\Debug\Entity.dll
+C:\Users\HJP\Desktop\PROJELER sql\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\Entity\obj\Debug\Entity.pdb

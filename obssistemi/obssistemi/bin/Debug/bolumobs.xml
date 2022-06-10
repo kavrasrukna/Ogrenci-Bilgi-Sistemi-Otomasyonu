@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bolumler>
+  <bolum>
+    <bolumid>13</bolumid>
+    <bolumadi>Matematik</bolumadi>
+    <ogrencisayisi>20</ogrencisayisi>
+  </bolum>
+  <bolum>
+    <bolumid>12</bolumid>
+    <bolumadi>Türkçe</bolumadi>
+    <ogrencisayisi>25</ogrencisayisi>
+  </bolum>
+  <bolum>
+    <bolumid>14</bolumid>
+    <bolumadi>Fizik</bolumadi>
+    <ogrencisayisi>23</ogrencisayisi>
+  </bolum>
+  <bolum>
+    <bolumid>15</bolumid>
+    <bolumadi>Bilgisayar</bolumadi>
+    <ogrencisayisi>35</ogrencisayisi>
+  </bolum>
+</bolumler>

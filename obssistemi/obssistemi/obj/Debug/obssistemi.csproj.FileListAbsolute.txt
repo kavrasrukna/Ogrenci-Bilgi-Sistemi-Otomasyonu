@@ -1,0 +1,121 @@
+C:\Users\Rükna\source\repos\obssistemi\obssistemi\bin\Debug\obssistemi.exe.config
+C:\Users\Rükna\source\repos\obssistemi\obssistemi\bin\Debug\obssistemi.exe
+C:\Users\Rükna\source\repos\obssistemi\obssistemi\bin\Debug\obssistemi.pdb
+C:\Users\Rükna\source\repos\obssistemi\obssistemi\obj\Debug\obssistemi.csproj.AssemblyReference.cache
+C:\Users\Rükna\source\repos\obssistemi\obssistemi\obj\Debug\obssistemi.anasayfa.resources
+C:\Users\Rükna\source\repos\obssistemi\obssistemi\obj\Debug\obssistemi.bolumler.resources
+C:\Users\Rükna\source\repos\obssistemi\obssistemi\obj\Debug\obssistemi.dersler.resources
+C:\Users\Rükna\source\repos\obssistemi\obssistemi\obj\Debug\obssistemi.Form1.resources
+C:\Users\Rükna\source\repos\obssistemi\obssistemi\obj\Debug\obssistemi.notlar.resources
+C:\Users\Rükna\source\repos\obssistemi\obssistemi\obj\Debug\obssistemi.ogrenci.resources
+C:\Users\Rükna\source\repos\obssistemi\obssistemi\obj\Debug\obssistemi.ogretmen.resources
+C:\Users\Rükna\source\repos\obssistemi\obssistemi\obj\Debug\obssistemi.Properties.Resources.resources
+C:\Users\Rükna\source\repos\obssistemi\obssistemi\obj\Debug\obssistemi.raporlar.resources
+C:\Users\Rükna\source\repos\obssistemi\obssistemi\obj\Debug\obssistemi.csproj.GenerateResource.cache
+C:\Users\Rükna\source\repos\obssistemi\obssistemi\obj\Debug\obssistemi.csproj.CoreCompileInputs.cache
+C:\Users\Rükna\source\repos\obssistemi\obssistemi\obj\Debug\obssistemi.exe
+C:\Users\Rükna\source\repos\obssistemi\obssistemi\obj\Debug\obssistemi.pdb
+C:\Users\Rükna\Desktop\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.csproj.AssemblyReference.cache
+C:\Users\Rükna\Desktop\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.anasayfa.resources
+C:\Users\Rükna\Desktop\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.bolumler.resources
+C:\Users\Rükna\Desktop\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.dersler.resources
+C:\Users\Rükna\Desktop\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.Form1.resources
+C:\Users\Rükna\Desktop\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.notlar.resources
+C:\Users\Rükna\Desktop\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.ogrenci.resources
+C:\Users\Rükna\Desktop\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.ogretmen.resources
+C:\Users\Rükna\Desktop\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.Properties.Resources.resources
+C:\Users\Rükna\Desktop\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.raporlar.resources
+C:\Users\Rükna\Desktop\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.csproj.GenerateResource.cache
+C:\Users\Rükna\Desktop\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.csproj.CoreCompileInputs.cache
+C:\Users\Rükna\Desktop\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.exe
+C:\Users\Rükna\Desktop\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.pdb
+C:\Users\Rükna\Desktop\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\bin\Debug\obssistemi.exe.config
+C:\Users\Rükna\Desktop\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\bin\Debug\obssistemi.exe
+C:\Users\Rükna\Desktop\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\bin\Debug\obssistemi.pdb
+C:\Users\Rükna\Desktop\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\bin\Debug\Entity.dll
+C:\Users\Rükna\Desktop\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\bin\Debug\Facade.dll
+C:\Users\Rükna\Desktop\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\bin\Debug\ObsLayer.dll
+C:\Users\Rükna\Desktop\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\bin\Debug\Entity.pdb
+C:\Users\Rükna\Desktop\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\bin\Debug\Facade.pdb
+C:\Users\Rükna\Desktop\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\bin\Debug\ObsLayer.pdb
+C:\Users\Rükna\Desktop\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.csproj.CopyComplete
+C:\Users\Rükna\Desktop\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.bolumcrud.resources
+C:\Users\Rükna\Desktop\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.xmlislemleri.resources
+C:\Users\HJP\Desktop\ERP\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\bin\Debug\obssistemi.exe.config
+C:\Users\HJP\Desktop\ERP\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\bin\Debug\obssistemi.exe
+C:\Users\HJP\Desktop\ERP\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\bin\Debug\obssistemi.pdb
+C:\Users\HJP\Desktop\ERP\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\bin\Debug\Entity.dll
+C:\Users\HJP\Desktop\ERP\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\bin\Debug\Facade.dll
+C:\Users\HJP\Desktop\ERP\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\bin\Debug\ObsLayer.dll
+C:\Users\HJP\Desktop\ERP\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\bin\Debug\Entity.pdb
+C:\Users\HJP\Desktop\ERP\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\bin\Debug\Facade.pdb
+C:\Users\HJP\Desktop\ERP\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\bin\Debug\ObsLayer.pdb
+C:\Users\HJP\Desktop\ERP\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.csproj.AssemblyReference.cache
+C:\Users\HJP\Desktop\ERP\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.anasayfa.resources
+C:\Users\HJP\Desktop\ERP\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.bolumcrud.resources
+C:\Users\HJP\Desktop\ERP\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.bolumler.resources
+C:\Users\HJP\Desktop\ERP\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.dersler.resources
+C:\Users\HJP\Desktop\ERP\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.Form1.resources
+C:\Users\HJP\Desktop\ERP\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.notlar.resources
+C:\Users\HJP\Desktop\ERP\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.ogrenci.resources
+C:\Users\HJP\Desktop\ERP\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.ogretmen.resources
+C:\Users\HJP\Desktop\ERP\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.Properties.Resources.resources
+C:\Users\HJP\Desktop\ERP\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.raporlar.resources
+C:\Users\HJP\Desktop\ERP\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.xmlislemleri.resources
+C:\Users\HJP\Desktop\ERP\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.csproj.GenerateResource.cache
+C:\Users\HJP\Desktop\ERP\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.csproj.CoreCompileInputs.cache
+C:\Users\HJP\Desktop\ERP\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.csproj.CopyComplete
+C:\Users\HJP\Desktop\ERP\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.exe
+C:\Users\HJP\Desktop\ERP\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.pdb
+C:\Users\HJP\Desktop\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.csproj.AssemblyReference.cache
+C:\Users\HJP\Desktop\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.anasayfa.resources
+C:\Users\HJP\Desktop\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.bolumcrud.resources
+C:\Users\HJP\Desktop\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.bolumler.resources
+C:\Users\HJP\Desktop\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.dersler.resources
+C:\Users\HJP\Desktop\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.Form1.resources
+C:\Users\HJP\Desktop\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.notlar.resources
+C:\Users\HJP\Desktop\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.ogrenci.resources
+C:\Users\HJP\Desktop\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.ogretmen.resources
+C:\Users\HJP\Desktop\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.Properties.Resources.resources
+C:\Users\HJP\Desktop\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.raporlar.resources
+C:\Users\HJP\Desktop\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.xmlislemleri.resources
+C:\Users\HJP\Desktop\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.csproj.GenerateResource.cache
+C:\Users\HJP\Desktop\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.csproj.CoreCompileInputs.cache
+C:\Users\HJP\Desktop\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.exe
+C:\Users\HJP\Desktop\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.pdb
+C:\Users\HJP\Desktop\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\bin\Debug\obssistemi.exe.config
+C:\Users\HJP\Desktop\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\bin\Debug\obssistemi.exe
+C:\Users\HJP\Desktop\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\bin\Debug\obssistemi.pdb
+C:\Users\HJP\Desktop\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\bin\Debug\Entity.dll
+C:\Users\HJP\Desktop\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\bin\Debug\Facade.dll
+C:\Users\HJP\Desktop\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\bin\Debug\ObsLayer.dll
+C:\Users\HJP\Desktop\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\bin\Debug\Entity.pdb
+C:\Users\HJP\Desktop\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\bin\Debug\Facade.pdb
+C:\Users\HJP\Desktop\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\bin\Debug\ObsLayer.pdb
+C:\Users\HJP\Desktop\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.csproj.CopyComplete
+C:\Users\HJP\Desktop\PROJELER sql\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\bin\Debug\obssistemi.exe.config
+C:\Users\HJP\Desktop\PROJELER sql\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\bin\Debug\obssistemi.exe
+C:\Users\HJP\Desktop\PROJELER sql\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\bin\Debug\obssistemi.pdb
+C:\Users\HJP\Desktop\PROJELER sql\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\bin\Debug\Entity.dll
+C:\Users\HJP\Desktop\PROJELER sql\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\bin\Debug\Facade.dll
+C:\Users\HJP\Desktop\PROJELER sql\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\bin\Debug\ObsLayer.dll
+C:\Users\HJP\Desktop\PROJELER sql\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\bin\Debug\Entity.pdb
+C:\Users\HJP\Desktop\PROJELER sql\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\bin\Debug\Facade.pdb
+C:\Users\HJP\Desktop\PROJELER sql\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\bin\Debug\ObsLayer.pdb
+C:\Users\HJP\Desktop\PROJELER sql\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.csproj.AssemblyReference.cache
+C:\Users\HJP\Desktop\PROJELER sql\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.anasayfa.resources
+C:\Users\HJP\Desktop\PROJELER sql\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.bolumcrud.resources
+C:\Users\HJP\Desktop\PROJELER sql\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.bolumler.resources
+C:\Users\HJP\Desktop\PROJELER sql\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.dersler.resources
+C:\Users\HJP\Desktop\PROJELER sql\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.Form1.resources
+C:\Users\HJP\Desktop\PROJELER sql\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.notlar.resources
+C:\Users\HJP\Desktop\PROJELER sql\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.ogrenci.resources
+C:\Users\HJP\Desktop\PROJELER sql\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.ogretmen.resources
+C:\Users\HJP\Desktop\PROJELER sql\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.Properties.Resources.resources
+C:\Users\HJP\Desktop\PROJELER sql\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.raporlar.resources
+C:\Users\HJP\Desktop\PROJELER sql\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.xmlislemleri.resources
+C:\Users\HJP\Desktop\PROJELER sql\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.csproj.GenerateResource.cache
+C:\Users\HJP\Desktop\PROJELER sql\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.csproj.CoreCompileInputs.cache
+C:\Users\HJP\Desktop\PROJELER sql\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.csproj.CopyComplete
+C:\Users\HJP\Desktop\PROJELER sql\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.exe
+C:\Users\HJP\Desktop\PROJELER sql\4 kmanlı yeni sonn bittiiii\obs4katmanlımimari ado.net sp\obssistemi\obssistemi\obj\Debug\obssistemi.pdb
